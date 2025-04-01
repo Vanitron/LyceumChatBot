@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Медицинский 1",
+    "floor": 1,
+    "side": "left"
+  },
+  {
+    "name": "Медицинский 2",
+    "floor": 1,
+    "side": "left"
+  },
+  {
+    "name": "Английский",
+    "floor": 1,
+    "side": "left"
+  },
+  {
+    "name": "Лекционный",
+    "floor": 1,
+    "side": "left"
+  },
+  {
+    "name": "Русский и литература",
+    "floor": 1,
+    "side": "left"
+  },
+  {
+    "name": "6",
+    "floor": 1,
+    "side": "left"
+  },
+  {
+    "name": "Театр",
+    "floor": 1,
+    "side": "left"
+  },
+  {
+    "name": "Спортзал",
+    "floor": 1,
+    "side": "left"
+  },
+  {
+    "name": "Музыка",
+    "floor": 1,
+    "side": "left"
+  },
+  {
+    "name": "Столовая",
+    "floor": 1,
+    "side": "left"
+  },
+  {
+    "name": "4",
+    "floor": 2,
+    "side": "right"
+  },
+  {
+    "name": "3",
+    "floor": 2,
+    "side": "right"
+  },
+  {
+    "name": "Библиотека",
+    "floor": 2,
+    "side": "right"
+  },
+  {
+    "name": "Химия и биология",
+    "floor": 2,
+    "side": "right"
+  },
+  {
+    "name": "Лаборатория 3D",
+    "floor": 2,
+    "side": "right"
+  },
+  {
+    "name": "5",
+    "floor": 2,
+    "side": "left"
+  },
+  {
+    "name": "4x",
+    "floor": 2,
+    "side": "left"
+  },
+  {
+    "name": "2",
+    "floor": 2,
+    "side": "left"
+  },
+  {
+    "name": "1",
+    "floor": 2,
+    "side": "left"
+  },
+  {
+    "name": "15",
+    "floor": 2,
+    "side": "left"
+  }
+]
