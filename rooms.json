@@ -5,11 +5,6 @@
     "side": "left"
   },
   {
-    "name": "Медицинский 2",
-    "floor": 1,
-    "side": "left"
-  },
-  {
     "name": "Английский",
     "floor": 1,
     "side": "left"
@@ -20,12 +15,22 @@
     "side": "left"
   },
   {
+    "name": "Медицинский 2",
+    "floor": 1,
+    "side": "left"
+  },
+  {
     "name": "Русский и литература",
     "floor": 1,
     "side": "left"
   },
   {
     "name": "6",
+    "floor": 1,
+    "side": "left"
+  },
+  {
+    "name": "Учительская",
     "floor": 1,
     "side": "left"
   },
@@ -47,27 +52,27 @@
   {
     "name": "Столовая",
     "floor": 1,
-    "side": "left"
+    "side": "right"
   },
   {
     "name": "4",
     "floor": 2,
-    "side": "right"
+    "side": "left"
   },
   {
     "name": "3",
     "floor": 2,
-    "side": "right"
+    "side": "left"
   },
   {
     "name": "Библиотека",
     "floor": 2,
-    "side": "right"
+    "side": "left"
   },
   {
     "name": "Химия и биология",
     "floor": 2,
-    "side": "right"
+    "side": "left"
   },
   {
     "name": "Лаборатория 3D",
@@ -77,26 +82,26 @@
   {
     "name": "5",
     "floor": 2,
-    "side": "left"
+    "side": "right"
   },
   {
     "name": "4x",
     "floor": 2,
-    "side": "left"
+    "side": "right"
   },
   {
     "name": "2",
     "floor": 2,
-    "side": "left"
+    "side": "right"
   },
   {
     "name": "1",
     "floor": 2,
-    "side": "left"
+    "side": "right"
   },
   {
     "name": "15",
     "floor": 2,
-    "side": "left"
+    "side": "right"
   }
 ]
